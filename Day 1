@@ -18,7 +18,7 @@ is the best place to learn and practice coding!
 8.0
 HackerRank is the best place to learn and practice coding!
 
------CODE-----
+-----CODE(1)-----
 i = 4
 d = 4.0
 s = 'HackerRank '
@@ -35,3 +35,20 @@ c = str(input())
 print(i + a)
 print(d + b)
 print(s + c)
+--------------CODE(2)---------------
+i = 4
+d = 4.0
+s = 'HackerRank '
+
+
+i1 = input()
+d1 = input()
+s1 = input()
+
+sum1 = int(i) + int(i1)
+sum2 = float(d) + float(d1)
+sum3 = s + s1
+
+print(sum1)
+print(sum2)
+print(sum3)
